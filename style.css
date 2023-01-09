@@ -1,0 +1,141 @@
+#sign-in{
+    background-color: black;
+    color: white;
+}
+.heading{
+    margin-top: 7%;
+  margin-left: 10%;
+  font-size: 50px;
+}
+.second-heading{
+    margin-top: 3%;
+    margin-left: 10%;
+    font-size: 40px;
+}
+.flex-container {
+  display: flex;
+  flex-direction:row;
+  
+  margin-left:13%;
+  margin-right: 10%;
+  padding: 10px;
+}
+
+.flex-container > div {
+  background-color:white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+ 
+}
+.first-container-img{
+  width: 300px;
+  height: auto;
+  border: solid 1px;
+}
+.type-of-items{
+  font-size: 25px;
+  color: white;
+  background-color: rgb(31, 30, 30);
+  width: 300px;
+ 
+}
+
+
+.flex-container1 {
+  display: flex;
+  flex-direction:row;
+  
+  margin-left:13%;
+  margin-right: 10%;
+  padding: 10px;
+}
+
+.flex-container1 > div {
+  background-color:white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+ 
+}
+.first-container-img1{
+  width: 300px;
+  height: auto;
+  
+}
+.type-of-items{
+  font-size: 25px;
+  color: white;
+  background-color: rgb(31, 30, 30);
+  width: 300px;
+ 
+}
+.btn1{
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  border: solid;
+  border-color: white;
+}
+
+.flex-container2 {
+  display: flex;
+  flex-direction:row;
+  
+  margin-left:13%;
+  margin-right: 10%;
+  padding: 10px;
+}
+
+.flex-container2 > div {
+  background-color:white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+ 
+}
+.first-container-img2{
+  width: 300px;
+  height: auto;
+  
+}
+.type-of-items{
+  font-size: 25px;
+  color: white;
+  background-color: rgb(31, 30, 30);
+  width: 300px;
+ 
+}
+.btn1{
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  border: solid;
+  border-color: white;
+}
+
+.flex-container4{
+justify-content: space-around;
+margin-left: 7%;
+background-color:black;
+color: white;
+}
+.footer-container{
+  background-color: black;
+  color: white;
+}
+.boarder-line{
+ border: solid 1px;
+}
+.boarder-line1{
+  margin-left: 6%;
+  margin-right: 8%;
+  border: solid 1px;
+ }
+ .border-line3{
+  border: solid 1px;
+ }
+
+
+
+
